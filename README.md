@@ -1,4 +1,4 @@
-<img width="393" height="187" alt="screenzy-1785436711158" src="https://github.com/user-attachments/assets/280092d5-36b4-4bec-b31a-d81125b03077" />
+<img width="1572" height="748" alt="screenzy-1785436711158 (1)" src="https://github.com/user-attachments/assets/b1c07d63-d5b8-4657-84fe-e4d768f44ce3" />
 
 # Claude Menubar
 
