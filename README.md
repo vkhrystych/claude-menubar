@@ -1,3 +1,5 @@
+<img width="393" height="187" alt="screenzy-1785436711158" src="https://github.com/user-attachments/assets/280092d5-36b4-4bec-b31a-d81125b03077" />
+
 # Claude Menubar
 
 Your Claude Code usage, in the macOS menu bar.
